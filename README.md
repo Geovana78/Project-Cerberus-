@@ -6,7 +6,8 @@ Proyecto de prácticas de seguridad en Microsoft Entra ID (Azure AD) enfocado en
 ---
 
 ## 🎥 Vídeo explicativo  
-https://github.com/Geovana78/Proyecto-Cerberus/blob/main/imagenes/video-cerberus.mp4  
+[Ver video de presentación](./video/video-cerberus.mp4)
+
 
 ---
 
