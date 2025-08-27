@@ -11,8 +11,7 @@ Proyecto de prácticas de seguridad en **Microsoft Entra ID (Azure AD)** enfocad
 ---
 
 ## 🖼️ Banner / Imagen Principal
-👉 [Aquí se insertará la imagen principal del Proyecto Cerberus (logo con las 4 cabezas)]  
-
+👉  imagenes/proyecto-cerberus.png
 ---
 
 ## 📌 Objetivos del Proyecto
