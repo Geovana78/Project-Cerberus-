@@ -1,17 +1,17 @@
 # 🛡️ Proyecto Cerberus
-Nada entra. Nada de escapada. Todo está vigilado.
+Nada entra. Nada escapa. Todo está vigilado.
 
 Proyecto de prácticas de seguridad en **Microsoft Entra ID (Azure AD)** enfocado en el uso de **Acceso Condicional, roles administrativos, MFA avanzado y Zero Trust**.
 
 ---
 
 ## 🎥 Vídeo explicativo
-👉 [Mira aquí el video explicativo](https://github.com/Geovana78/Proyecto-Cerberus/blob/main/video-presentacion.mp4)
+👉 [Ver video de presentación](./video-cerberus.mp4)
 
 ---
 
 ## 🖼️ Banner / Imagen Principal
-![Proyecto Cerberus](/imagenes/banner.png)
+![Proyecto Cerberus](./proyecto-cerberus.png)
 
 ---
 
