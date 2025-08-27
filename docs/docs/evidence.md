@@ -17,4 +17,22 @@ Esto asegura que únicamente los accesos desde la región designada (MX) sean pe
 📎 **Placeholder de captura**:  
 ![Bloqueo fuera de México](assets/ca-guest-mx-block.png)
 
-> Nota: la imagen será reemplazada posteriormente con la evidencia gráfica tomada desde el portal de Azure AD.  
+> Nota: la imagen será reemplazada posteriormente con la evidencia gráfica tomada desde el portal de Azure AD.
+>
+> ## 🟩 Evidencia – Cabeza 3: MFA Obligatorio
+
+Se implementó una política de **Multi-Factor Authentication (MFA)** para todos los usuarios, reforzando la seguridad frente a accesos no autorizados.
+
+📎 **Placeholder de captura**:  
+![Política MFA](assets/ca-mfa-all-users.png)
+
+---
+
+## 🟦 Evidencia – Cabeza 4: Nivel Ultra de Autenticación
+
+Se creó el nivel **Cerberus Nivel Ultra**, que exige:
+- **Passwordless MFA** (Windows Hello, FIDO2, Authenticator sin contraseña).  
+- **MFA resistente a phishing** con credenciales seguras.  
+
+📎 **Placeholder de captura**:  
+![Nivel Ultra](assets/auth-strength-ultra.png)
