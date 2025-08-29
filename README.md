@@ -10,6 +10,10 @@ Proyecto de prácticas de seguridad en **Microsoft Entra ID (Azure AD)** enfocad
 
 ---
 
+## 🙌 Apoya este proyecto
+Si **Project Cerberus** te parece interesante, apóyalo con una ⭐ en GitHub.  
+¡Eso me ayuda a seguir desarrollando nuevas funciones y a que más personas lo descubran!
+
 ## 🎥 Vídeo explicativo
 [Ver video de presentación](./videos/video-cerberus.mp4)
 
@@ -139,6 +143,3 @@ Estudio de caso en Identity & Access Management (IAM) con Microsoft Azure.
 
 Este proyecto está bajo la Licencia MIT.
 
-## 🙌 Apoya este proyecto
-Si **Project Cerberus** te parece interesante, apóyalo con una ⭐ en GitHub.  
-¡Eso me ayuda a seguir desarrollando nuevas funciones y a que más personas lo descubran!
