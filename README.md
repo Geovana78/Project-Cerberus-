@@ -15,8 +15,7 @@ Si **Project Cerberus** te parece interesante, apóyalo con una ⭐ en GitHub.
 ¡Eso me ayuda a seguir desarrollando nuevas funciones y a que más personas lo descubran!
 
 ## 🎥 Vídeo explicativo
-[Ver video de presentación](./videos/video-cerberus.mp4)
-
+[![TikTok Demo](https://img.shields.io/badge/TikTok-Ver%20Demo-ff0050?logo=tiktok&logoColor=white)](https://vt.tiktok.com/ZSAQ3wn1c/)
 ---
 
 ## 🖼️ Banner / Imagen Principal
